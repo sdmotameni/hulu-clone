@@ -18,8 +18,8 @@ export default function Home({ results }) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <div className="z-50 w-full py-5 bg-yellow-400 ">
-          <p className="font-semibold text-center">
+        <div className="z-50 w-full py-5 bg-yellow-400">
+          <p className="font-semibold text-center text-black">
             This site is a clone! This is NOT the real Hulu. Do NOT enter any
             real Hulu credentials. I built this for educational purposes. -Sep
           </p>
